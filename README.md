@@ -1,6 +1,6 @@
-# Student Performance ML
+# Student Performance Machine Learning
 
-Here, we use a dataset to predict high school students grades based on various aspects of their lifes.
+Here, we use multiclass classification methods to predict high school students grades based on various aspects of their lifes.
 
 This [kaggle dataset](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset/data) has the following information:
 
